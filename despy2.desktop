@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=despy2
+Icon=dspconfig
+Type=Application
+OnlyShowIn=KDE;
+GenericName=DSP Previewer
+Name=Despy 2
+Categories=Qt;KDE;Settings;
+NoDisplay=true
