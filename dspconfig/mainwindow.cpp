@@ -217,7 +217,7 @@ void MainWindow::on_actionDemo_triggered()
     QProcess demo;
     QString command = "despy2";
     QStringList args;
-    args << "--dsppreset" << "despy";
+    args << "--dsppreset" << "despy2";
 
     write_config(command);
 
